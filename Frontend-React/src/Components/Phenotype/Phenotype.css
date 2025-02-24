@@ -1,0 +1,104 @@
+/* General Phenotype styles */
+.phenotype-wrapper {
+  background: url("./stethoscope-doctor-s-desk_23-2147652338.jpg");
+  background-position: bottom;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 100vh;
+}
+
+/* Sidebar Styling */
+.phenotype-controls {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 0px;
+}
+
+.phenotype-buttons {
+  display: flex;
+  justify-content: flex-start;
+  gap: 0px;
+  margin-bottom: 0px;
+}
+
+.phenotype-checkboxes {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 0px;
+}
+
+.phenotype-checkbox-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+/* PDF Viewer styles */
+.phenotype-pdf-display {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.phenotype-pdf iframe {
+  background-color: rgb(247, 249, 251);
+  height: 600px;
+  border: none;
+}
+
+.selected-phenotype-files {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.selected-phenotype-files > div {
+  margin: 5px;
+  padding: 10px;
+  background-color: #f0f0f0;
+  border-radius: 5px;
+}
+
+.remove-phenotype-icon {
+  cursor: pointer;
+  margin-left: 8px;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.remove-phenotype-icon img {
+  width: 20px;
+  height: 20px;
+}
+
+/* Add other component-specific styles if needed */
+
+/* Button and Checkbox Styles */
+.phenotype-btn {
+  margin-right: 10px;
+}
+
+.phenotype-btn:hover {
+  background-color: #005bb5;
+}
+
+.phenotype-section.hidden {
+  display: none;
+}
+
+.phenotype-section.visible {
+  display: block;
+  width: 90em; /* Adjust width based on design */
+  transition: all 0.3s ease; /* Smooth transition for better UX */
+}
+
+.phenotype-pdf-display {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  width: calc(100% + 10px); /* Extend width by 10px */
+}

@@ -1,0 +1,130 @@
+/* Main Layout Styles */
+.main-layout {
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+/* Fullscreen Icon Styling */
+.fullscreen {
+  cursor: pointer;
+}
+
+.fullicon {
+  height: 24px;
+  width: 24px;
+  transition: transform 0.3s ease;
+}
+
+.fullscreen:hover .fullicon {
+  transform: scale(1.2);
+}
+
+.main-fullscreen {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+/* Heading Styles */
+.conditiontitle {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+/* Extra Buttons Styles */
+.extra-buttons-style {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 0px;
+}
+
+.extra-buttons-style button {
+  font-size: 14px;
+  padding: 10px;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  background-color: initial; /* Ensure initial background color */
+}
+
+.extra-buttons-style button:hover {
+  opacity: 0.9;
+}
+
+.extra-buttons-style button p {
+  margin: 0;
+}
+
+/* Icon Styles */
+.extra-buttons-style svg {
+  font-size: 1rem;
+}
+
+/* Individual Icon Colors */
+.MdLocalHospital {
+  color: green;
+}
+
+.TbDna2Off {
+  color: royalblue;
+}
+
+/* Severity Buttons */
+.severity-buttons {
+  display: flex;
+  gap: 15px;
+  margin-bottom: 0px;
+  border-top: 1px solid #ccc;
+  padding-top: 0px;
+}
+
+.severity-buttons button {
+  font-size: 14px;
+  padding: 2px 4px;
+  border: none;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s, color 0.3s;
+  color: black;
+  background-color: initial; /* Ensure initial background color */
+}
+
+.severity-buttons button p {
+  margin: 0;
+}
+
+.severity-buttons svg {
+  font-size: 1.5rem;
+}
+
+/* Severity Button Colors */
+.severity-buttons .low {
+  background-color: green;
+  color: white;
+}
+
+.severity-buttons .mild {
+  background-color: yellow;
+  color: white;
+}
+
+.severity-buttons .moderate {
+  background-color: orange;
+  color: white;
+}
+
+.severity-buttons .moderate-to-high {
+  background-color: red;
+  color: white;
+}

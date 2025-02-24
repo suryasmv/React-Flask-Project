@@ -1,0 +1,127 @@
+{
+    "reportconditions":[
+        [
+            {
+              "name": "Diabetes"
+            },
+            {
+              "name": "High Blood pressure"
+            },
+            {
+              "name": "Coronary Artery Disease"
+            },
+            {
+              "name": "Arrhythmia"
+            },
+            {
+              "name": "Heart Failure- Dilated Cardiomyopathy, Restrictive Cardiomyopathy"
+            },
+            {
+              "name": "Cholesterol disorders"
+            },
+            {
+              "name": "Hypertriglyceridemia"
+            },
+            {
+              "name": "Thyroid Disorders- Hypothyroidism, Hyperthyroidism"
+            },
+            {
+              "name": "Anemia- Microcytic, Hemolytic"
+            },
+            {
+              "name": "Predisposition to Blood clots- Thrombophilia"
+            },
+            {
+              "name": "Bleeding Disorders"
+            },
+            {
+              "name": "Parkinson’s Disease"
+            },
+            {
+              "name": "Alzheimer’s Disease"
+            },
+            {
+              "name": "Migraines, Headaches"
+            },
+            {
+              "name": "Seizures"
+            },
+            {
+              "name": "Inflammatory bowel disease- Crohn’s, Ulcerative colitis"
+            },
+            {
+              "name": "Respiratory Allergies"
+            },
+            {
+              "name": "Food Allergies"
+            },
+            {
+              "name": "Liver Disorders"
+            },
+            {
+              "name": "Gall bladder disorders"
+            },
+            {
+              "name": "Pancreatic Disorders"
+            },
+            {
+              "name": "Nephrotic Syndrome (Focal Segmental Glomerulosclerosis, Membranous nephropathy, Minimal Change Disease)"
+            },
+            {
+              "name": "Interstitial Nephritis, Tubulo interstitial Disease"
+            },
+            {
+              "name": "Renal Stones- Calcium Oxalate stones, Cystine stones, Uric Acid Stones"
+            },
+            {
+              "name": "Dry skin, eczema"
+            },
+            {
+              "name": "Skin Allergies"
+            },
+            {
+              "name": "Vitiligo"
+            },
+            {
+              "name": "Osteoporosis"
+            },
+            {
+              "name": "Degenerative Joint Disease, Cartilage degeneration"
+            },
+            {
+              "name": "Muscular dystrophy, atrophy"
+            },
+            {
+              "name": "Fatigue"
+            },
+            {
+              "name": "Mood Disorders- Anxiety, Schizophrenia, Depression"
+            },
+            {
+              "name": "Urticaria"
+            },
+            {
+              "name": "Essential tremors"
+            },
+            {
+              "name": "Renal Disorders"
+            },
+            {
+              "name": "Sinusitis, Dust Allergy (Ciliary dykinesia, Hyper IgE syndrome, Angioedma, Chroinc granulomatous)"
+            },
+            {
+              "name": "Obesity"
+            },
+            {
+              "name": "Skin Health"
+            },
+            {
+              "name": "Eye Health"
+            },
+            {
+              "name": "Gastritis"
+            }
+          ]
+          
+    ]
+}

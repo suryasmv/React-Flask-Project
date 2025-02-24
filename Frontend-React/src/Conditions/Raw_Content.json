@@ -1,0 +1,667 @@
+[
+    {
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health"
+    },
+    {
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health"
+    },
+    {
+        "Condition": "Coronary artery disease risk; Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cardiac; Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cardiac_Health; Cholesterol_Disorders; Gall_stones"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Obesity",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Obesity",
+        "21_Conditions_list": "Diabetes; Diabetes; Obesity"
+    },
+    {
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Gall_stones"
+    },
+    {
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes"
+    },
+    {
+        "Condition": "Renal tubular dysgenesis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity"
+    },
+    {
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Renal tubular dysgenesis",
+        "Headings": "Hypertension; Glomerular Diseases",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones"
+    },
+    {
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis"
+    },
+    {
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes"
+    },
+    {
+        "Condition": "Hyperthyroidism (Graves Disease)",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia; Gallstones",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Gall_stones"
+    },
+    {
+        "Condition": "Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia; Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia; Alzeihmer's; Gallstones",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Dementia; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Dementia; Gall_stones"
+    },
+    {
+        "Condition": "Alzeihmer's; Lewy Body",
+        "Headings": "Dementia; Dementia",
+        "21_Conditions_list": "Dementia; Dementia"
+    },
+    {
+        "Condition": "Diabetic Nephropathy; Diabetic kidney disease",
+        "Headings": "Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies"
+    },
+    {
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health"
+    },
+    {
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches"
+    },
+    {
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis"
+    },
+    {
+        "Condition": "Maturity onset diabetes mellitus in young; Systemic lupus erythematosus (SLE)",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Obesity; Aplastic, Congenital",
+        "Headings": "Obesity; Aplastic, Congenital",
+        "21_Conditions_list": "Obesity; Anemia "
+    },
+    {
+        "Condition": "Type 1 Diabetes; Gastritis ; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis; Gastritis"
+    },
+    {
+        "Condition": "Parkisons Disease; Migraines and other headaches",
+        "Headings": "Parkisons Disease; Headaches",
+        "21_Conditions_list": "Parkinsons; Headaches"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Long QT syndrome; Cardiac Channelopathies; Cardiac Channelopathies",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure"
+    },
+    {
+        "Condition": "Brugada Syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Brugada Syndrome; Long QT syndrome; Cardiac Channelopathies; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Cardiac Channelopathies",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome; Muscular_health",
+        "Headings": "Cardiac; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Muscular_health"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Maturity onset diabetes mellitus in young; Pancreatitis; Gastritis ",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Pancreatitis; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Pancreatic_Disorders; Gastritis"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure"
+    },
+    {
+        "Condition": "Focal segmental glomerulosclerosis; Membranoproliferative Glomerulonephritis",
+        "Headings": "Glomerular Diseases; Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Membranoproliferative Glomerulonephritis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Lewy Body",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Bone_Joint_health",
+        "Headings": "Hypertension; Bone_Joint_health",
+        "21_Conditions_list": "High_Blood_Pressure; Bone_Joint_health"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Focal segmental glomerulosclerosis",
+        "Headings": "Hypertension; Glomerular Diseases",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders"
+    },
+    {
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Hyperthyroidism (Graves Disease); Gastritis ; Systemic lupus erythematosus (SLE); Rheumatoid Arthritis",
+        "Headings": "Predisposition for diabetes; Thyroid; Gastritis ; Glomerular Diseases; Autoimmune Disorder",
+        "21_Conditions_list": "Diabetes; Thyroid_Disorders; Gastritis; Glomerular_Diseases; Arthritis_Degenerative_Joint"
+    },
+    {
+        "Condition": "Hyper IgE",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies"
+    },
+    {
+        "Condition": "Hyperthyroidism (Graves Disease); Hypothyroidism",
+        "Headings": "Thyroid; Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders; Thyroid_Disorders"
+    },
+    {
+        "Condition": "Coronary artery disease risk; Dry Skin\/fragile skin",
+        "Headings": "Cardiac; Skin Health",
+        "21_Conditions_list": "Cardiac_Health; Skin_Health"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Obesity",
+        "Headings": "Predisposition for diabetes; Obesity",
+        "21_Conditions_list": "Diabetes; Obesity"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Dry Skin\/fragile skin",
+        "Headings": "Cholesterol disorders; Skin Health",
+        "21_Conditions_list": "Cholesterol_Disorders; Skin_Health"
+    },
+    {
+        "Condition": "Dry Skin\/fragile skin; Aplastic, Congenital",
+        "Headings": "Skin Health; Aplastic, Congenital",
+        "21_Conditions_list": "Skin_Health; Anemia"
+    },
+    {
+        "Condition": "Diabetic Retinopathy; Obesity",
+        "Headings": "Diabetic Retinopathy; Obesity",
+        "21_Conditions_list": "Diabetes; Obesity"
+    },
+    {
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Interstitial_Nephritis"
+    },
+    {
+        "Condition": "Brugada Syndrome; Bone_Joint_health",
+        "Headings": "Arrhythmia; Bone_Joint_health",
+        "21_Conditions_list": "Cardiac_Health; Bone_Joint_health"
+    },
+    {
+        "Condition": "Gut Health; Rheumatoid Arthritis",
+        "Headings": "Gut Health; Autoimmune Disorder",
+        "21_Conditions_list": "Gut_Health; Arthritis_Degenerative_Joint"
+    },
+    {
+        "Condition": "Anxiety",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Parkisons Disease",
+        "Headings": "Hypertension; Parkisons Disease",
+        "21_Conditions_list": "High_Blood_Pressure; Parkinsons"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes; Diabetes"
+    },
+    {
+        "Condition": "Hypertriglyceridemia; Fatty liver",
+        "Headings": "Cholesterol disorders; Fatty liver",
+        "21_Conditions_list": "Cholesterol_Disorders; Fatty_Liver"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Bone_Joint_health",
+        "Headings": "Cholesterol disorders; Bone_Joint_health",
+        "21_Conditions_list": "Cholesterol_Disorders; Bone_Joint_health"
+    },
+    {
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Type 2 Diabetes; Maturity onset diabetes mellitus in young; Gastritis ",
+        "Headings": "Predisposition for diabetes; Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes; Gastritis"
+    },
+    {
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Retinopathy; Diabetic Nephropathy; Diabetic Neuropathy; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Retinopathy; Diabetic Nephropathy; Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes; Diabetes; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Gut Health",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gut Health",
+        "21_Conditions_list": "Diabetes; Diabetes; Gut_Health"
+    },
+    {
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Maturity onset diabetes mellitus in young; Gastritis ",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Gastritis"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Diabetic Retinopathy",
+        "Headings": "Predisposition for diabetes; Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes; Diabetes"
+    },
+    {
+        "Condition": "Minimal change disease",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Brugada Syndrome; Atrial fibrillation",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Brugada Syndrome; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies; Obesity",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac; Obesity",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Obesity"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Diabetic Retinopathy",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes"
+    },
+    {
+        "Condition": "Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Monogenic (Secondary); Long QT syndrome",
+        "Headings": "Hypertension; Arrhythmia",
+        "21_Conditions_list": "High_Blood_Pressure; Cardiac_Health"
+    },
+    {
+        "Condition": "Gallstones",
+        "Headings": "Gallstones",
+        "21_Conditions_list": "Gall_stones"
+    },
+    {
+        "Condition": "Coronary artery disease risk; Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia",
+        "Headings": "Cardiac; Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cardiac_Health; Cholesterol_Disorders; Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Coronary artery disease risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health"
+    },
+    {
+        "Condition": "Type 2 Diabetes; Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Predisposition for diabetes; Cholesterol disorders",
+        "21_Conditions_list": "Diabetes; Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Risk of Heart Disease; Hypertrophic cardiomyopathy risk; Long QT syndrome; Cardiac Channelopathies; Polygenic (Familial combined, small dense LDL, Miscellaneous); Muscular_health",
+        "Headings": "Risk of Heart Disease; Cardiac; Arrhythmia; Cardiac; Cholesterol disorders; Muscular_health",
+        "21_Conditions_list": "Diabetes; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cholesterol_Disorders; Muscular_health"
+    },
+    {
+        "Condition": "Parkisons Disease; Parkisons Disease",
+        "Headings": "Parkisons Disease; Parkisons Disease",
+        "21_Conditions_list": "Parkinsons; Parkinsons"
+    },
+    {
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Obesity",
+        "Headings": "Cholesterol disorders; Obesity",
+        "21_Conditions_list": "Cholesterol_Disorders; Obesity"
+    },
+    {
+        "Condition": "Maturity onset diabetes mellitus in young",
+        "Headings": "Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes"
+    },
+    {
+        "Condition": "Membranous nephropathy",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Muscular_health",
+        "Headings": "Cardiac; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Muscular_health"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Focal segmental glomerulosclerosis; Obesity",
+        "Headings": "Hypertension; Glomerular Diseases; Obesity",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases; Obesity"
+    },
+    {
+        "Condition": "Dry Skin\/fragile skin; Bone_Joint_health",
+        "Headings": "Skin Health; Bone_Joint_health",
+        "21_Conditions_list": "Skin_Health; Bone_Joint_health"
+    },
+    {
+        "Condition": "Gut Health; Bone_Joint_health",
+        "Headings": "Gut Health; Bone_Joint_health",
+        "21_Conditions_list": "Gut_Health; Bone_Joint_health"
+    },
+    {
+        "Condition": "Polygenic\/essential\/primary Hypertension; Coronary artery disease risk",
+        "Headings": "Hypertension; Cardiac",
+        "21_Conditions_list": "High_Blood_Pressure; Cardiac_Health"
+    },
+    {
+        "Condition": "Focal segmental glomerulosclerosis; Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Glomerular Diseases; Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Glomerular_Diseases; Interstitial_Nephritis"
+    },
+    {
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Nephropathy; Parkisons Disease; Parkisons Disease; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Nephropathy; Parkisons Disease; Parkisons Disease; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; Parkinsons; Parkinsons; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Focal segmental glomerulosclerosis; Congenital anomaly of kidney and urinary tract",
+        "Headings": "Glomerular Diseases; Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders"
+    },
+    {
+        "Condition": "Dry Skin\/fragile skin; Muscular_health",
+        "Headings": "Skin Health; Muscular_health",
+        "21_Conditions_list": "Skin_Health; Muscular_health"
+    },
+    {
+        "Condition": "Parkisons Disease; Aplastic, Congenital",
+        "Headings": "Parkisons Disease; Aplastic, Congenital",
+        "21_Conditions_list": "Parkinsons; Anemia"
+    },
+    {
+        "Condition": "Diabetic Retinopathy; Polygenic (Familial combined, small dense LDL, Miscellaneous); Obesity",
+        "Headings": "Diabetic Retinopathy; Cholesterol disorders; Obesity",
+        "21_Conditions_list": "Diabetes; Cholesterol_Disorders; Obesity"
+    },
+    {
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Nephropathy; Polygenic\/essential\/primary Hypertension; Coronary artery disease risk; Hypertrophic cardiomyopathy risk; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Nephropathy; Hypertension; Cardiac; Cardiac; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; High_Blood_Pressure; Cardiac_Health; Cardiac_Health; Glomerular_Diseases"
+    },
+    {
+        "Condition": "Alzeihmer's",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Gastritis ; Gastritis ; Rheumatoid Arthritis",
+        "Headings": "Predisposition for diabetes; Gastritis ; Gastritis ; Autoimmune Disorder",
+        "21_Conditions_list": "Diabetes; Gastritis; Gastritis; Arthritis_Degenerative_Joint"
+    },
+    {
+        "Condition": "Obesity; Muscular_health",
+        "Headings": "Obesity; Muscular_health",
+        "21_Conditions_list": "Obesity; Muscular_health"
+    },
+    {
+        "Condition": "Long QT syndrome; Ventricular Arrhythmia; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Migraines and other headaches; Obesity",
+        "Headings": "Headaches; Obesity",
+        "21_Conditions_list": "Headaches; Obesity"
+    },
+    {
+        "Condition": "Diabetic Neuropathy; Other Skin Conditions ",
+        "Headings": "Diabetic Nephropathy; Skin Health",
+        "21_Conditions_list": "Diabetes; Skin_Health"
+    },
+    {
+        "Condition": "Renal stones; Renal stones",
+        "Headings": "Renal stones; Renal stones",
+        "21_Conditions_list": "Renal_stones; Renal_stones"
+    },
+    {
+        "Condition": "Parkisons Disease; Lewy Body",
+        "Headings": "Parkisons Disease; Dementia",
+        "21_Conditions_list": "Parkinsons; Dementia"
+    },
+    {
+        "Condition": "Atrial fibrillation; Long QT syndrome; Muscular_health",
+        "Headings": "Arrhythmia; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Muscular_health"
+    },
+    {
+        "Condition": "Type 1 Diabetes; Gut Health; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gut Health; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gut_Health; Gastritis"
+    },
+    {
+        "Condition": "Long QT syndrome; Muscular_health",
+        "Headings": "Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Muscular_health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Cardiac Channelopathies",
+        "Headings": "Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Muscular_health",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Muscular_health"
+    },
+    {
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Hemolytic anemia",
+        "Headings": "Cardiac; Arrhythmia; Hemolytic anemia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Anemia"
+    },
+    {
+        "Condition": "Diabetic Neuropathy",
+        "Headings": "Diabetic Nephropathy",
+        "21_Conditions_list": "Diabetes"
+    },
+    {
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia"
+    },
+    {
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia"
+    },
+    {
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia"
+    },
+    {
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia"
+    },
+    {
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health"
+    },
+    {
+        "Condition": "Bone_Joint_health; Muscular_health",
+        "Headings": "Bone_Joint_health; Muscular_health",
+        "21_Conditions_list": "Bone_Joint_health; Muscular_health"
+    },
+    {
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health"
+    }
+]

@@ -1,0 +1,5406 @@
+[
+    {
+        "Gene Name": "A2ML1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "AAGAB",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ABCA1",
+        "Condition": "Coronary artery disease risk; Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cardiac; Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cardiac_Health; Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "ABCA12",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ABCB4",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ABCB6",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ABCC6",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ABCC8",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Obesity",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Obesity",
+        "21_Conditions_list": "Diabetes; Diabetes; Obesity",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ABCC9",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ABCG5",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ABCG8",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ACADL",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ACADM",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ACADS",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ACADVL",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "ACD",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ACE",
+        "Condition": "Renal tubular dysgenesis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ACTC1",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ACTN2",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ACTN4",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ACVRL1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ADCY3",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ADNP",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ADRB3",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "AFF4",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "AGPAT2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "AGT",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Renal tubular dysgenesis",
+        "Headings": "Hypertension; Glomerular Diseases",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "AGXT",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "AGXT2",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "AIS1",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "AKT2",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "AKT3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "ALB",
+        "Condition": "Hyperthyroidism (Graves Disease)",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ALOX12B",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ALOXE3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ANGPTL3",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 9.0
+    },
+    {
+        "Gene Name": "ANK2",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ANKRD1",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ANLN",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "APBB1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "API5",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "APOA1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia; Gallstones",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "APOA2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "APOA4",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "APOA5",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "APOB",
+        "Condition": "Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia; Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "APOC2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "APOC3",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 9.0
+    },
+    {
+        "Gene Name": "APOE",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia; Alzeihmer's; Gallstones",
+        "Headings": "Cholesterol disorders; Cholesterol disorders; Dementia; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders; Dementia; Gall_stones",
+        "Gene_Score": 9.0
+    },
+    {
+        "Gene Name": "APOL1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "APP",
+        "Condition": "Alzeihmer's; Lewy Body",
+        "Headings": "Dementia; Dementia",
+        "21_Conditions_list": "Dementia; Dementia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "AQP2",
+        "Condition": "Diabetic Nephropathy; Diabetic kidney disease",
+        "Headings": "Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ARHGAP22",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ARL4C",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ARMC4",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ATG16L1",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ATP1A2",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "ATP1A3",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ATP2A2",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ATP2C1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "AVP",
+        "Condition": "Diabetic Nephropathy; Diabetic kidney disease",
+        "Headings": "Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "AVPR2",
+        "Condition": "Diabetic Nephropathy; Diabetic kidney disease",
+        "Headings": "Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "BACH2",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BAG3",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BCCIP",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BCHE",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BDNF",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "BFSP2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BIVM-ERCC5",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BLK",
+        "Condition": "Maturity onset diabetes mellitus in young; Systemic lupus erythematosus (SLE)",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BRCA2",
+        "Condition": "Obesity; Aplastic, Congenital",
+        "Headings": "Obesity; Aplastic, Congenital",
+        "21_Conditions_list": "Obesity; Anemia ",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "BSCL2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "C11orf70",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "C1QTNF6",
+        "Condition": "Type 1 Diabetes; Gastritis ; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "C3",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNA1A",
+        "Condition": "Parkisons Disease; Migraines and other headaches",
+        "Headings": "Parkisons Disease; Headaches",
+        "21_Conditions_list": "Parkinsons; Headaches",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNA1C",
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Long QT syndrome; Cardiac Channelopathies; Cardiac Channelopathies",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNA1H",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNA1S",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNA2D1",
+        "Condition": "Brugada Syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CACNB2",
+        "Condition": "Brugada Syndrome; Long QT syndrome; Cardiac Channelopathies; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CALM1",
+        "Condition": "Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CALM2",
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CALM3",
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CAMK4",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CARD14",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CASQ2",
+        "Condition": "Cardiac Channelopathies",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CASR",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CAV3",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome; Muscular_health",
+        "Headings": "Cardiac; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCDC101",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CCDC103",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCDC151",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCDC39",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCDC40",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCDC65",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CCR5",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CD2AP",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CDH1",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CDKAL1",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CEL",
+        "Condition": "Type 1 Diabetes; Maturity onset diabetes mellitus in young; Pancreatitis; Gastritis ",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Pancreatitis; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Pancreatic_Disorders; Gastritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CELA2A",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CEP135",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CEP162",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CEP19",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CETP",
+        "Condition": "Coronary artery disease risk; Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cardiac; Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cardiac_Health; Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "CFB",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CFH",
+        "Condition": "Focal segmental glomerulosclerosis; Membranoproliferative Glomerulonephritis",
+        "Headings": "Glomerular Diseases; Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases; Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CFHR5",
+        "Condition": "Membranoproliferative Glomerulonephritis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "CFI",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CFTR",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CHD7",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CHN2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CLCN2",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CLDN2",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CLPX",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CNTN1",
+        "Condition": "Lewy Body",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CNTN5",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "COL17A1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COL1A1",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Bone_Joint_health",
+        "Headings": "Hypertension; Bone_Joint_health",
+        "21_Conditions_list": "High_Blood_Pressure; Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COL4A3",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "COL4A4",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Focal segmental glomerulosclerosis",
+        "Headings": "Hypertension; Glomerular Diseases",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COL7A1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COLEC12",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "COMT",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "COQ2",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CPA1",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CPE",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CPOX",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CPT1A",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CPT2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CPVL",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CR2",
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CRB2",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CRP",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CSNK1D",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CSRP3",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CSTB",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CTC1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CTLA4",
+        "Condition": "Type 1 Diabetes; Hyperthyroidism (Graves Disease); Gastritis ; Systemic lupus erythematosus (SLE); Rheumatoid Arthritis",
+        "Headings": "Predisposition for diabetes; Thyroid; Gastritis ; Glomerular Diseases; Autoimmune Disorder",
+        "21_Conditions_list": "Diabetes; Thyroid_Disorders; Gastritis; Glomerular_Diseases; Arthritis_Degenerative_Joint",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CTRC",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CUL3",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CXCL10",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CYP11B1",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CYP11B2",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CYP17A1",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CYP24A1",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CYP27A1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CYP4F22",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DAO",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "DAOA\/G30",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "DARS2",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DCTN1",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DDB2",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DGKE",
+        "Condition": "Membranoproliferative Glomerulonephritis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "DHCR7",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DISC1",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "DKC1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAAF1",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "DNAAF2",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAAF3",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAAF5",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAH11",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAH5",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAH8",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAH9",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNAI2",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DNAJB13",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNASE1L3",
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "DOCK8",
+        "Condition": "Hyper IgE",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DRC1",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DSG1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DSG1-AS1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DSG2",
+        "Condition": "Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DSP",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DTNBP1",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DUOX2",
+        "Condition": "Hyperthyroidism (Graves Disease); Hypothyroidism",
+        "Headings": "Thyroid; Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders; Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "DUOXA2",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "DYNC2H1",
+        "Condition": "Coronary artery disease risk; Dry Skin\/fragile skin",
+        "Headings": "Cardiac; Skin Health",
+        "21_Conditions_list": "Cardiac_Health; Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DYNC2LI1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ECM1",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "EDAR",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "EDIL3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "EDN1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ENPP1",
+        "Condition": "Type 2 Diabetes; Obesity",
+        "Headings": "Predisposition for diabetes; Obesity",
+        "21_Conditions_list": "Diabetes; Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ERBB3",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ERCC2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Dry Skin\/fragile skin",
+        "Headings": "Cholesterol disorders; Skin Health",
+        "21_Conditions_list": "Cholesterol_Disorders; Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ERCC4",
+        "Condition": "Dry Skin\/fragile skin; Aplastic, Congenital",
+        "Headings": "Skin Health; Aplastic, Congenital",
+        "21_Conditions_list": "Skin_Health; Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ETFA",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ETFB",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ETFDH",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "EXPH5",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "EYA1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "F12",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "FABP2",
+        "Condition": "Diabetic Retinopathy; Obesity",
+        "Headings": "Diabetic Retinopathy; Obesity",
+        "21_Conditions_list": "Diabetes; Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FADS1",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "FADS2",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "FADS3",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "FAM187A",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FAN1",
+        "Condition": "Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Interstitial_Nephritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FBN1",
+        "Condition": "Brugada Syndrome; Bone_Joint_health",
+        "Headings": "Arrhythmia; Bone_Joint_health",
+        "21_Conditions_list": "Cardiac_Health; Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FCGR2A",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FLAD1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FLG",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "FLNC",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "FOXD3",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "FOXE1",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FOXO3",
+        "Condition": "Gut Health; Rheumatoid Arthritis",
+        "Headings": "Gut Health; Autoimmune Disorder",
+        "21_Conditions_list": "Gut_Health; Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "FOXP3",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FRMD3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "FTO",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GAB1",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "GABRB2",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GAD",
+        "Condition": "Anxiety",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GAS8",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GAS8-AS1",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GBA",
+        "Condition": "Lewy Body",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GBA1",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Parkisons Disease",
+        "Headings": "Hypertension; Parkisons Disease",
+        "21_Conditions_list": "High_Blood_Pressure; Parkinsons",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "GCK",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "GCKR",
+        "Condition": "Hypertriglyceridemia; Fatty liver",
+        "Headings": "Cholesterol disorders; Fatty liver",
+        "21_Conditions_list": "Cholesterol_Disorders; Fatty_Liver",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "GGT1",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "GHR",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GHRL",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GJA5",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "GLMN",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GNA12",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GNAO1",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GNB1",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GNB3",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GNPTAB",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Bone_Joint_health",
+        "Headings": "Cholesterol disorders; Bone_Joint_health",
+        "21_Conditions_list": "Cholesterol_Disorders; Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GNPTG",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GPHN",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GPIHBP1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GRAMD3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GRB2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "GRHPR",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HADH",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "HADHA",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HCN4",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HHEX",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HLA DRB1",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLAA2",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLAA30",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLAB13",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLACW6",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADQ",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADQ7",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADQW3",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADR",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADR1",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADR4",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HLADR7",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HNF1A",
+        "Condition": "Type 1 Diabetes; Type 2 Diabetes; Maturity onset diabetes mellitus in young; Gastritis ",
+        "Headings": "Predisposition for diabetes; Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes; Gastritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "HNF1B",
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Retinopathy; Diabetic Nephropathy; Diabetic Neuropathy; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Retinopathy; Diabetic Nephropathy; Diabetic Nephropathy; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes; Diabetes; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "HNF4A",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Gut Health",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gut Health",
+        "21_Conditions_list": "Diabetes; Diabetes; Gut_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "HOGA1",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "HR",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HS6ST3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HSD11B2",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HSD17B13",
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "HSDL1",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HYDIN",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "IDUA",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "IFNL4",
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IGFBP1",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IGSF1",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "IL10",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "IL12B",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "IL17RA",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "IL18RAP",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IL2",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IL20RA",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IL24R",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IL2RA",
+        "Condition": "Type 1 Diabetes; Gastritis ; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis; Gastritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ILK",
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "INF2",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Focal segmental glomerulosclerosis",
+        "Headings": "Hypertension; Glomerular Diseases",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "INS",
+        "Condition": "Type 1 Diabetes; Maturity onset diabetes mellitus in young; Gastritis ",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Gastritis ",
+        "21_Conditions_list": "Diabetes; Diabetes; Gastritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "INSR",
+        "Condition": "Type 2 Diabetes; Diabetic Retinopathy",
+        "Headings": "Predisposition for diabetes; Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "IRGM",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "IRS1",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ITGA3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ITGAM",
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ITGB4",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "IYD",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "JAK2",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "JPH2",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KANK1",
+        "Condition": "Minimal change disease",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KANK2",
+        "Condition": "Minimal change disease",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KANK4",
+        "Condition": "Minimal change disease",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KCNA5",
+        "Condition": "Brugada Syndrome; Atrial fibrillation",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "KCND3",
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNE1",
+        "Condition": "Brugada Syndrome; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KCNE2",
+        "Condition": "Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNE3",
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNH2",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies; Obesity",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac; Obesity",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Obesity",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNJ11",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young; Diabetic Retinopathy",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type; Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes; Diabetes; Diabetes",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNJ2",
+        "Condition": "Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "KCNJ5",
+        "Condition": "Monogenic (Secondary); Long QT syndrome",
+        "Headings": "Hypertension; Arrhythmia",
+        "21_Conditions_list": "High_Blood_Pressure; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KCNJ8",
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNK18",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KCNN2",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KCNQ1",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KIAA0825",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "KLF11",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KLHL3",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "KRT1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT10",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT14",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT16",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT2",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "KRT25",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT5",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "KRT6B",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT6C",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT74",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KRT9",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KSR2",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LAMA3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LAMA4",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LAMB1",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "LAMB2",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LAMB3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LAMC2",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LCAT",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LDB3",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LDL",
+        "Condition": "Gallstones",
+        "Headings": "Gallstones",
+        "21_Conditions_list": "Gall_stones",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LDLR",
+        "Condition": "Coronary artery disease risk; Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia",
+        "Headings": "Cardiac; Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cardiac_Health; Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LDLR-AS1",
+        "Condition": "Coronary artery disease risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LDLRAP1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LEP",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LEPR",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LIPA",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LIPC",
+        "Condition": "Type 2 Diabetes; Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Predisposition for diabetes; Cholesterol disorders",
+        "21_Conditions_list": "Diabetes; Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LIPN",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LMF1",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LMNA",
+        "Condition": "Risk of Heart Disease; Hypertrophic cardiomyopathy risk; Long QT syndrome; Cardiac Channelopathies; Polygenic (Familial combined, small dense LDL, Miscellaneous); Muscular_health",
+        "Headings": "Risk of Heart Disease; Cardiac; Arrhythmia; Cardiac; Cholesterol disorders; Muscular_health",
+        "21_Conditions_list": "Diabetes; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cholesterol_Disorders; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LMNB2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LMX1B",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LOC105371891",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LOC105378642",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "LOC107986063",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LPL",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LPP",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LRG1",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LRP1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LRP2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LRP6",
+        "Condition": "Coronary artery disease risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LRRC56",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LRRC6",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LRRK",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LRRK2",
+        "Condition": "Parkisons Disease; Parkisons Disease",
+        "Headings": "Parkisons Disease; Parkisons Disease",
+        "21_Conditions_list": "Parkinsons; Parkinsons",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "LSM3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MAPT",
+        "Condition": "Lewy Body",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MAT1A",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MC1R",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MC4R",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Obesity",
+        "Headings": "Cholesterol disorders; Obesity",
+        "21_Conditions_list": "Cholesterol_Disorders; Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MCIDAS",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MCOLN1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MEN1",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MIR4260",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MIR936",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MLKL",
+        "Condition": "Maturity onset diabetes mellitus in young",
+        "Headings": "Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "MLXIPL",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MLYCD",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MME",
+        "Condition": "Membranous nephropathy",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MOCOS",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MRAP2",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "MRE11",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MT-ND6",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MTTP",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous); Gallstones",
+        "Headings": "Cholesterol disorders; Gallstones",
+        "21_Conditions_list": "Cholesterol_Disorders; Gall_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MUC1",
+        "Condition": "Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Interstitial_Nephritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MYBPC3",
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MYH6",
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MYH7",
+        "Condition": "Hypertrophic cardiomyopathy risk; Muscular_health",
+        "Headings": "Cardiac; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Muscular_health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MYH9",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Focal segmental glomerulosclerosis; Obesity",
+        "Headings": "Hypertension; Glomerular Diseases; Obesity",
+        "21_Conditions_list": "High_Blood_Pressure; Glomerular_Diseases; Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MYL2",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MYL3",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MYL4",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MYLK2",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MYO6",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MYPN",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MYSM1",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "MYT1L",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NALP1",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "NBOAT7",
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "NCAN",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "NEUROD1",
+        "Condition": "Maturity onset diabetes mellitus in young",
+        "Headings": "Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NKX2-5",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NLRP1",
+        "Condition": "Dry Skin\/fragile skin; Bone_Joint_health",
+        "Headings": "Skin Health; Bone_Joint_health",
+        "21_Conditions_list": "Skin_Health; Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NLRP3",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NOD2",
+        "Condition": "Gut Health; Bone_Joint_health",
+        "Headings": "Gut Health; Bone_Joint_health",
+        "21_Conditions_list": "Gut_Health; Bone_Joint_health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NOP10",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NOS3",
+        "Condition": "Polygenic\/essential\/primary Hypertension; Coronary artery disease risk",
+        "Headings": "Hypertension; Cardiac",
+        "21_Conditions_list": "High_Blood_Pressure; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NPC1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NPHP1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NPHP4",
+        "Condition": "Focal segmental glomerulosclerosis; Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Glomerular Diseases; Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Glomerular_Diseases; Interstitial_Nephritis",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NPHS1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NPHS2",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "NPPA",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "NPY2R",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "NR3C2",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NR4A2",
+        "Condition": "Parkisons Disease; Parkisons Disease",
+        "Headings": "Parkisons Disease; Parkisons Disease",
+        "21_Conditions_list": "Parkinsons; Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NSD1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NSDHL",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NTRK2",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NUP107",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "OCA2",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "OCTN2",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "OLIG3",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "OXCT1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PADI4",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "PANK2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PARK7",
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Nephropathy; Parkisons Disease; Parkisons Disease; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Nephropathy; Parkisons Disease; Parkisons Disease; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; Parkinsons; Parkinsons; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PAX2",
+        "Condition": "Focal segmental glomerulosclerosis; Congenital anomaly of kidney and urinary tract",
+        "Headings": "Glomerular Diseases; Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases; Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PAX4",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "PAX8",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PCSK1",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PCSK9",
+        "Condition": "Familial Hypercholesterolemia; Monogenic\/ Familial Hypercholesterolemia",
+        "Headings": "Cholesterol disorders; Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders; Cholesterol_Disorders",
+        "Gene_Score": 9.0
+    },
+    {
+        "Gene Name": "PDE3A",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PDSS1",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PDSS2",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PDX1",
+        "Condition": "Type 2 Diabetes; Maturity onset diabetes mellitus in young",
+        "Headings": "Predisposition for diabetes; Risk factors for type of diabetes- Monogenic type",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PEX7",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PHIP",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PHYH",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PIGC",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PINK1",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PITX2",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PKD1",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PKD2",
+        "Condition": "Polygenic\/essential\/primary Hypertension",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PKP1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PKP2",
+        "Condition": "Brugada Syndrome; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PLA2G6",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PLCE1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PLEC",
+        "Condition": "Dry Skin\/fragile skin; Muscular_health",
+        "Headings": "Skin Health; Muscular_health",
+        "21_Conditions_list": "Skin_Health; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PLN",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "PLTP",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "PLXDC2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "PNPLA2",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PNPLA3",
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PNPLA6",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POLG",
+        "Condition": "Parkisons Disease; Aplastic, Congenital",
+        "Headings": "Parkisons Disease; Aplastic, Congenital",
+        "21_Conditions_list": "Parkinsons; Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POLH",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "POMC",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PPARG",
+        "Condition": "Diabetic Retinopathy; Polygenic (Familial combined, small dense LDL, Miscellaneous); Obesity",
+        "Headings": "Diabetic Retinopathy; Cholesterol disorders; Obesity",
+        "21_Conditions_list": "Diabetes; Cholesterol_Disorders; Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PPOX",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PPP1R3A",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PREPL",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PRKAG2",
+        "Condition": "Maturity onset diabetes mellitus in young; Diabetic Nephropathy; Polygenic\/essential\/primary Hypertension; Coronary artery disease risk; Hypertrophic cardiomyopathy risk; Diabetic kidney disease",
+        "Headings": "Risk factors for type of diabetes- Monogenic type; Diabetic Nephropathy; Hypertension; Cardiac; Cardiac; Glomerular Diseases",
+        "21_Conditions_list": "Diabetes; Diabetes; High_Blood_Pressure; Cardiac_Health; Cardiac_Health; Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PRKN",
+        "Condition": "Parkisons Disease; Parkisons Disease",
+        "Headings": "Parkisons Disease; Parkisons Disease",
+        "21_Conditions_list": "Parkinsons; Parkinsons",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PRKQ",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "PRMT7",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PRRT2",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PRSS1",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PSAP",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PSEN1",
+        "Condition": "Alzeihmer's",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PSEN2",
+        "Condition": "Alzeihmer's",
+        "Headings": "Dementia",
+        "21_Conditions_list": "Dementia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "PTPN22",
+        "Condition": "Type 1 Diabetes; Gastritis ; Gastritis ; Rheumatoid Arthritis",
+        "Headings": "Predisposition for diabetes; Gastritis ; Gastritis ; Autoimmune Disorder",
+        "21_Conditions_list": "Diabetes; Gastritis; Gastritis; Arthritis_Degenerative_Joint",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "RBM20",
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "RET",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "RGS1",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "RPGRIP1L",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPSAP37",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "RTEL1-TNFRSF6B",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "RYR1",
+        "Condition": "Obesity; Muscular_health",
+        "Headings": "Obesity; Muscular_health",
+        "21_Conditions_list": "Obesity; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "RYR2",
+        "Condition": "Long QT syndrome; Ventricular Arrhythmia; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SAR1B",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SASH1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCARB1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCN10A",
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCN1A",
+        "Condition": "Migraines and other headaches; Obesity",
+        "Headings": "Headaches; Obesity",
+        "21_Conditions_list": "Headaches; Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCN1B",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SCN2B",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCN3B",
+        "Condition": "Atrial fibrillation",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCN4B",
+        "Condition": "Long QT syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "SCN5A",
+        "Condition": "Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Arrhythmia; Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SCN9A",
+        "Condition": "Diabetic Neuropathy; Other Skin Conditions ",
+        "Headings": "Diabetic Nephropathy; Skin Health",
+        "21_Conditions_list": "Diabetes; Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCNN1B",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SCNN1G",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SDC3",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "SELP",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SERPINB8",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SGCD",
+        "Condition": "Hypertrophic cardiomyopathy risk; Muscular_health",
+        "Headings": "Cardiac; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SH2B1",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SH2B3",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "SIM1",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLA",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "SLC17A5",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLC19A3",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC22A12",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC25A20",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC26A1",
+        "Condition": "Renal stones; Renal stones",
+        "Headings": "Renal stones; Renal stones",
+        "21_Conditions_list": "Renal_stones; Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SLC26A7",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "SLC29A3",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC2A2",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC2A9",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SLC34A1",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC3A1",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SLC6A17",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "SLC6A4",
+        "Condition": "Anxiety",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "SLC7A7",
+        "Condition": "Migraines and other headaches",
+        "Headings": "Headaches",
+        "21_Conditions_list": "Headaches",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLMAP",
+        "Condition": "Brugada Syndrome",
+        "Headings": "Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SMARCA4",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SMARCAL1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SMPD1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SNCA",
+        "Condition": "Parkisons Disease; Lewy Body",
+        "Headings": "Parkisons Disease; Dementia",
+        "21_Conditions_list": "Parkinsons; Dementia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SNTA1",
+        "Condition": "Atrial fibrillation; Long QT syndrome; Muscular_health",
+        "Headings": "Arrhythmia; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SPINK1",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "SPINK5",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ST14",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "STAP1",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "STAT1",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "STAT2",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "STAT3",
+        "Condition": "Type 1 Diabetes; Gut Health; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gut Health; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gut_Health; Gastritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "STAT4",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SULT2B1",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TAGAP",
+        "Condition": "Type 1 Diabetes; Gastritis ",
+        "Headings": "Predisposition for diabetes; Gastritis ",
+        "21_Conditions_list": "Diabetes; Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TBC1D24",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TBC1D32",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TBC1D4",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TCF7L2",
+        "Condition": "Type 2 Diabetes; Diabetic Retinopathy",
+        "Headings": "Predisposition for diabetes; Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes; Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TECRL",
+        "Condition": "Long QT syndrome; Cardiac Channelopathies",
+        "Headings": "Arrhythmia; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TG",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TGFBR2",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TGM1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TGM5",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "THRB",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TINAG",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TINF2",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TM6SF2",
+        "Condition": "Fatty liver",
+        "Headings": "Fatty liver",
+        "21_Conditions_list": "Fatty_Liver",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TMC6",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TMC8",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TMEM43",
+        "Condition": "Long QT syndrome; Muscular_health",
+        "Headings": "Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TNF",
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "TNFAIP3",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TNFRSF13B",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TNFSF15",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TNK2",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TNNC1",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TNNI3",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TNNT2",
+        "Condition": "Hypertrophic cardiomyopathy risk",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TNR",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TPM1",
+        "Condition": "Hypertrophic cardiomyopathy risk; Cardiac Channelopathies",
+        "Headings": "Cardiac; Cardiac",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TPO",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TRAF1-C5",
+        "Condition": "Rheumatoid Arthritis",
+        "Headings": "Autoimmune Disorder",
+        "21_Conditions_list": "Arthritis_Degenerative_Joint",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TRDN",
+        "Condition": "Cardiac Channelopathies",
+        "Headings": "Cardiac",
+        "21_Conditions_list": "Cardiac_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TREX1",
+        "Condition": "Systemic lupus erythematosus (SLE)",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TRHR",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "TRIB1",
+        "Condition": "Hypertriglyceridemia",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TRPC6",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TRPM4",
+        "Condition": "Brugada Syndrome; Long QT syndrome",
+        "Headings": "Arrhythmia; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TRPM7",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "TRPV3",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TRPV6",
+        "Condition": "Pancreatitis",
+        "Headings": "Pancreatitis",
+        "21_Conditions_list": "Pancreatic_Disorders",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TSHB",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TSHR",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TTC12",
+        "Condition": "Ciliary dyskinesia",
+        "Headings": "Allergies (Respiratory, Food)",
+        "21_Conditions_list": "Allergies",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TTN",
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Atrial fibrillation; Long QT syndrome; Muscular_health",
+        "Headings": "Cardiac; Arrhythmia; Arrhythmia; Arrhythmia; Muscular_health",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Cardiac_Health; Cardiac_Health; Muscular_health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TTR",
+        "Condition": "Hypertrophic cardiomyopathy risk; Brugada Syndrome; Hemolytic anemia",
+        "Headings": "Cardiac; Arrhythmia; Hemolytic anemia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health; Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TUB",
+        "Condition": "Obesity",
+        "Headings": "Obesity",
+        "21_Conditions_list": "Obesity",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TUBB1",
+        "Condition": "Hypothyroidism",
+        "Headings": "Thyroid",
+        "21_Conditions_list": "Thyroid_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TYK2",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TYR",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TYRP1",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "UBASH3A",
+        "Condition": "Gastritis ",
+        "Headings": "Gastritis ",
+        "21_Conditions_list": "Gastritis",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "UMOD",
+        "Condition": "Tubular Interstitial disease, Interstitial Nephritis",
+        "Headings": "Tubular Interstitial disease, Interstitial Nephritis",
+        "21_Conditions_list": "Interstitial_Nephritis",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "UNKL",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "UROD",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "VCL",
+        "Condition": "Hypertrophic cardiomyopathy risk; Long QT syndrome",
+        "Headings": "Cardiac; Arrhythmia",
+        "21_Conditions_list": "Cardiac_Health; Cardiac_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "VPS13C",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "VPS35",
+        "Condition": "Parkisons Disease",
+        "Headings": "Parkisons Disease",
+        "21_Conditions_list": "Parkinsons",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "WFS1",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "WNK1",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "WNK4",
+        "Condition": "Monogenic (Secondary)",
+        "Headings": "Hypertension",
+        "21_Conditions_list": "High_Blood_Pressure",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "WRAP53",
+        "Condition": "Other Skin Conditions ",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "WRN",
+        "Condition": "Type 2 Diabetes",
+        "Headings": "Predisposition for diabetes",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "WT1",
+        "Condition": "Focal segmental glomerulosclerosis",
+        "Headings": "Glomerular Diseases",
+        "21_Conditions_list": "Glomerular_Diseases",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "XACT",
+        "Condition": "Gut Health",
+        "Headings": "Gut Health",
+        "21_Conditions_list": "Gut_Health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "XDH",
+        "Condition": "Renal stones",
+        "Headings": "Renal stones",
+        "21_Conditions_list": "Renal_stones",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "XPA",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "XPC",
+        "Condition": "Dry Skin\/fragile skin",
+        "Headings": "Skin Health",
+        "21_Conditions_list": "Skin_Health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ZMPSTE24",
+        "Condition": "Polygenic (Familial combined, small dense LDL, Miscellaneous)",
+        "Headings": "Cholesterol disorders",
+        "21_Conditions_list": "Cholesterol_Disorders",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ZNF804A",
+        "Condition": "Schizophrenia",
+        "Headings": "Mood Disorder",
+        "21_Conditions_list": "Mood_Disorders",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ZNRF1",
+        "Condition": "Diabetic Retinopathy",
+        "Headings": "Diabetic Retinopathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ZSCAN20",
+        "Condition": "Diabetic Neuropathy",
+        "Headings": "Diabetic Nephropathy",
+        "21_Conditions_list": "Diabetes",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LARS1",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLC11A2",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TMPRSS6",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "IREB2",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "TRNT1",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SLC25A38",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LARS2",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DNM1L",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "YARS2",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PUS1",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "HBB",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TF",
+        "Condition": "Microcytic anemia",
+        "Headings": "Microcytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLC19A2",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "DHFR",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "POLE",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "MTHFD1",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "AMN",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CUBN",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TERT",
+        "Condition": "Megaloblastic anemia",
+        "Headings": "Megaloblastic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SPTA1",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NT5C3A",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GSR",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "AK1",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "HK1",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "VPS4A",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLC4A1",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GPI",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SPTB",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SOCS1",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "GATA2",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "G6PD",
+        "Condition": "Hemolytic anemia",
+        "Headings": "Hemolytic anemia",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "CDIN1",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CDAN",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "KLF1",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SEC23B",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPL11",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPL5",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS7",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPL35A",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "RPS10",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS24",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS26",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS29",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS28",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RPS19",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TP53",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "RPL15",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BRCA1",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "VRK2",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCL",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCD2",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCE",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "XRCC2",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FANCG",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCC",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCF",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FANCM",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RAD51",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FANCI",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLX4",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PALB2",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FANCA",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "RAD51C",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BRIP1",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 8.0
+    },
+    {
+        "Gene Name": "TJP2",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "BAAT",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PAH",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TERC",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NBN",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PRF1",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SBDS",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MPIG6B",
+        "Condition": "Aplastic, Congenital",
+        "Headings": "Aplastic, Congenital",
+        "21_Conditions_list": "Anemia",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "MATN3",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SMAD6",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SMAD3",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ACAN",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "HPGD",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "COL9A2",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COL11A1",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "COL5A2",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SLC26A2",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "COL11A2",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "COL5A1",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "COL2A1",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TRPV4",
+        "Condition": "Bone_Joint_health; Muscular_health",
+        "Headings": "Bone_Joint_health; Muscular_health",
+        "21_Conditions_list": "Bone_Joint_health; Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "COMP",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LACC1",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "CIITA",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LRP5",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "ANO5",
+        "Condition": "Bone_Joint_health; Muscular_health",
+        "Headings": "Bone_Joint_health; Muscular_health",
+        "21_Conditions_list": "Bone_Joint_health; Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "IFITM5",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FGFR1",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BICD2",
+        "Condition": "Bone_Joint_health; Muscular_health",
+        "Headings": "Bone_Joint_health; Muscular_health",
+        "21_Conditions_list": "Bone_Joint_health; Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GNAS",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SFRP4",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "TENT5A",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FKBP10",
+        "Condition": "Bone_Joint_health",
+        "Headings": "Bone_Joint_health",
+        "21_Conditions_list": "Bone_Joint_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "TSPAN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POMGNT1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TOR1AIP1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DYSF",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "LIMS2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DAG1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GMPPB",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SGCB",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TRAPPC11",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LAMA2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CRPPA",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FKTN",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POMT1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TUBA1A",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SGCG",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POMT2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CAPN3",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TCAP",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SGCA",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "FKRP",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "STRN4",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POGLUT1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "BVES",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TTN-AS1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "CRPPA-AS1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SACS",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SELENON",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SIGMAR1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PLEKHG5",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "HNRNPDL",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "POMGNT2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SMCHD1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "COL6A3",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SMN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "MYOT",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ESR1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PABPN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "COL12A1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "IGHMBP2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SH3TC2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "NEFL",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PKD2L2-DT",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SUN2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "COL6A2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SETX",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SYNE1-AS1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "RXYLT1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ASCC1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GOSR2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TRIM32",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "POMK",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DYNC1H1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "CHKB",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "RIF1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "CHKB-CPT1B",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "TRIP4",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SPG7",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PMP22",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "VAPB",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "MORC2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TYMP",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "SMN2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 7.0
+    },
+    {
+        "Gene Name": "SCO2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "TNPO3",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SYNE1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "NEB",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "GARS1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DNAJB6",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ASTN2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "B3GALNT2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "SUN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "BCL2L2-PABPN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ASAH1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "PYGM",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SYNE2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "OXTR",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "GTPBP1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "COL6A1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "KIF1B",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "SPTAN1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "PMM2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "FKBP14",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "VRK1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "LARGE1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "DPM2",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 6.0
+    },
+    {
+        "Gene Name": "B4GAT1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "ITGA7",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "ACTA1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": 4.0
+    },
+    {
+        "Gene Name": "INPP5K",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "LOC123864065",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    },
+    {
+        "Gene Name": "RXYLT1-AS1",
+        "Condition": "Muscular_health",
+        "Headings": "Muscular_health",
+        "21_Conditions_list": "Muscular_health",
+        "Gene_Score": null
+    }
+]

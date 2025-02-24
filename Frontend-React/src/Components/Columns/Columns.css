@@ -1,0 +1,192 @@
+
+.bg{
+    background-image: url('./stethoscope-doctor-s-desk_23-2147652338.jpg');
+    background-size: cover;
+    background-position: bottom;
+    height: 100vh;
+}
+.selected_columns{
+    font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-size: larger;
+  font-weight: bolder;
+  padding-top: 10px;
+  padding-left: 10px;
+  max-height: 40vh;
+}
+.columns_submit{
+    float: right;
+    margin-right: 50px;
+}
+.Side_list {
+    padding: 10px;
+    /* background: rgba(255, 255, 255, 0.5); */
+    /* box-shadow: 1px 1px 1px 1px rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(4px);
+    -webkit-backdrop-filter: blur(4px);
+    border-radius: 10px; */
+    border: 1px solid rgba(108, 94, 94, 0.18);
+    box-sizing: border-box;
+    border-radius: 10px;
+    height: 65vh;
+    width: 30vw;
+    margin-top: 20px;
+    margin-right: 3px;
+    overflow-x: hidden;
+    overflow-y:auto;
+}
+.navbar{
+    display: flex;
+    padding-left: 70px;
+    padding-top: 25px;
+    padding-bottom: 0px;
+}
+.select_columns{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 55vw;
+    font-family: "kalam";
+    padding-bottom: 0px;
+    margin: 0px;
+}
+@media only screen and (max-width: 1024px){
+    .select_columns{
+        font-size:large;
+        justify-content: flex-start;
+    }
+    .user_img{
+        margin: 0px;
+        right:0px ;
+        top: 0px;
+    }
+}
+.user_img_col{
+    float: right;
+    margin-top: 20px;
+    position: absolute;
+    top: 0px;
+    right: 0px; 
+    display: flex;
+    align-items: center;
+    margin-right: 10%;
+  }
+  .user_img_col img{
+    height: 15%;
+    width: 15%;
+  }
+  .gobackcol{
+    margin: 5%;
+  }
+  
+.select_columns h1{
+    padding: 0px;
+    margin: 0px;
+}
+.Col {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:85vh;
+    flex-direction: column;
+}
+
+.list_col{
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(108, 94, 94, 0.18);
+    box-sizing: border-box;
+    border-radius: 10px;
+    width: 30vw;
+    height: 65vh;
+    margin-left: 5px;
+    margin-top: 20px;
+    overflow-x: hidden;
+    overflow-y:auto;
+}
+.list_col ul {
+    list-style-type: none;
+    padding-inline-start: 1px;
+
+}
+.list_col ul li{
+    background: rgba(255, 255, 255, 0.5);
+    width: 100%;
+    padding: 12px;
+    width: 500px;
+    cursor: pointer;
+}
+.list_col ul li:hover{
+    background-color: #e0e9f1;
+    border-radius: 10px;
+}
+.head_Selection{
+    /* background: rgba(255, 255, 255, 0.5);
+    box-shadow: 0 2px 2px 0 rgba(130, 130, 132, 0.37);
+    backdrop-filter: blur(4px);
+    border: 1px solid rgba(255, 255, 255, 0.18); */
+    width: 100%;
+    padding: 12px;
+}
+.head_Selection:hover{
+    background-color: #e0e9f1;
+    border-radius: 10px;
+}
+.searching{
+    width: 100%;
+}
+.search{
+    width: 60vw;
+    border-radius: 10px;
+    font-family: var(--font-family);
+    font-feature-settings: var(--font-feature-settings, normal);
+    font-size: 1rem;
+    color: #4b5563;
+    background: #ffffff;
+    padding: 0.75rem 0.75rem;
+    border: 1px solid #d1d5db;
+    transition: background-color 0.2s, color 0.2s, border-color 0.2s, box-shadow 0.2s;
+    appearance: none;
+    border-radius: 6px
+}
+.selected_card{
+    width: 20vw;
+    max-height: 65vh;
+    background: #ffffff;
+    background: rgba(255, 255, 255, 0.5);
+    border: 1px solid rgba(108, 94, 94, 0.18);
+    box-sizing: border-box;
+    border-radius: 10px;
+    margin-top: 20px;
+    margin-left: 5px;
+    overflow-x: hidden;
+    overflow-y:auto;
+}
+.selected_card ul{
+   list-style-type: none;
+   display: flex;
+    flex-wrap: wrap;
+    padding-inline-start: 2px;
+
+}
+.selected_card ul li{
+    background-color: #d5e1f2;
+    border-radius: 10px;
+    padding: 10px;
+    width: fit-content;
+    margin: 2px;
+}
+.remove-icon{
+    cursor: pointer;
+    border: none;
+    background-color: #ffffff;
+    border-radius: 10px; /* Make it round */
+    padding-left: 4%;
+    padding-right:4px;
+    margin-left: 3px;
+  
+}
+.remove-icon:hover{
+    cursor: pointer;
+    background-color: #c2cddd;
+    border-radius:10px ;
+}

@@ -1,0 +1,50 @@
+.dashboard-search {
+    position: relative;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+
+.dashboard-search-input
+.batch-dropdown 
+{
+    padding: 8px;
+    width: 300px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+.dashboard-search-icon {
+    font-size: 1.2rem;
+    color: #888;
+}
+
+.selected-patient {
+    margin-left: 16px;
+    font-weight: bold;
+    color: #007bff;
+}
+
+.search-results {
+    position: absolute;
+    top: 40px;
+    left: 0;
+    width: 100%;
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    z-index: 100;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.search-result-item {
+    padding: 8px;
+    cursor: pointer;
+}
+
+.search-result-item:hover {
+    background-color: #f0f0f0;
+}

@@ -1,0 +1,288 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+.user_img_patient {
+  float: right;
+  margin-top: 20px;
+  position: absolute;
+  top: 20px;
+  right: 10%;
+  display: flex;
+  align-items: center;
+}
+
+.user_img_patient img {
+  height: 15%;
+  width: 15%;
+}
+
+.user_img_patient .item {
+  display: none;
+}
+.goback_button{
+ 
+  margin: 10px;
+
+}
+
+.user_img_patient:hover .item {
+  display: block;
+  /* display: flex; */
+  /* flex-direction: column; */
+  background-color: snow;
+  width: fit-content;
+  padding: 15px;
+
+}
+
+.preferences {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* height: 75vh; */
+  flex-direction: column;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+@media only screen and (max-width: 1024px) {
+  .preferences {
+    margin-left: 5%;
+    margin-right: 5%;
+    /* height: 135vh; */
+  }
+
+  .doctor_selection {
+    background: url('./stethoscope-doctor-s-desk_23-2147652338.jpg');
+    background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 75vw) {
+  .preferences {
+    margin-left: 10%;
+    margin-right: 10%;
+    /* height: 105vh; */
+  }
+}
+
+@media only screen and (min-width: 1600px) {
+  .preferences {
+    margin-left: 20%;
+    margin-right: 20%;
+
+  }
+}
+
+@media only screen and (max-width: 50vw) {
+  .preferences {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+}
+
+.preferences h1 {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+}
+
+.Pref_button {
+  margin-top: 20px;
+}
+
+.patient_searching {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* flex-direction: row; */
+}
+
+.search-box {
+  width: 150%;
+  position: relative;
+  display: flex;
+
+}
+
+.search-input {
+  width: 100%;
+  padding: 10px;
+  border: 4px solid #111d5e;
+  border-radius: 10px 0 0 10px;
+  outline: none;
+  font-size: 20px;
+  color: rgb(0, 0, 0);
+  background: none;
+}
+
+
+
+.cont {
+  /* width: 35%;
+  position: absolute;
+  left: 40%;
+  top: 40%; */
+  /* transform: translate(-50%, -50%); */
+  width: 35%;
+
+  display: flex;
+  justify-content: center;
+
+  align-items: center;
+  flex-direction: column;
+  left: 32%;
+  position: absolute;
+  top: 30%;
+}
+.Patient_submit{
+  margin-top: 10%;
+}
+
+.cont h2 {
+  font-family: "Playfair Display", serif;
+}
+
+.search {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.pref_heading {
+  margin: 0px;
+  padding: 0px;
+}
+
+.Select_heading h2 {
+  margin: 0px;
+}
+
+.Select_heading {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+}
+
+.submitbutton {
+  background-color: white;
+  border: white;
+  color: black;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 200px;
+}
+
+.doctor_navbar {
+  padding-top: 40px;
+  padding-left: 60px;
+}
+
+.doctor_selection {
+  /* height: fit-content; */
+  background: url('./stethoscope-doctor-s-desk_23-2147652338.jpg');
+  background-position: bottom;
+  background-size: cover;
+  height: 100vh;
+  /* background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    width: 100%; */
+  /* background-size: cover;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%;
+    padding-bottom: 3%;
+    overflow: none; */
+  /* overflow: hidden; */
+}
+
+.task {
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 20px;
+  flex: 1 1 calc(33.33%- 50px);
+  cursor: grab;
+  touch-action: none;
+}
+
+.pref_heading p {
+  font-family: 'Kalam';
+}
+
+.column {
+  /* background-color: #f2f2f3; */
+  border-radius: 5px;
+  padding: 15px;
+  width: 100%;
+  display: flex;
+
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+
+.task input {
+  cursor: default;
+}
+
+.task input[type="checkbox"] {
+  /* Hide the default checkbox */
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  width: 20px;
+  /* Adjust as needed */
+  height: 20px;
+  /* Adjust as needed */
+  position: relative;
+}
+
+.task input[type="checkbox"]::before {
+  content: '';
+  display: block;
+  width: 100%;
+  height: 100%;
+  background-color: #fff;
+  /* Background color of the checkbox */
+  border: 1px solid #ccc;
+  /* Border color of the checkbox */
+  position: absolute;
+  border-radius: 3px;
+  top: 0;
+  left: 0;
+}
+
+.task input[type="checkbox"]:checked::before {
+  background-color: rgb(242, 245, 247);
+  /* Change this to your desired background color when checked */
+}
+
+.task input[type="checkbox"]::after {
+  content: '\2713';
+  /* Unicode for checkmark symbol */
+  font-size: 26px;
+  /* Adjust as needed */
+  color: transparent;
+  /* Make the checkmark transparent by default */
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.task input[type="checkbox"]:checked::after {
+  color: black;
+  /* Change the color of the checkmark when checked */
+}

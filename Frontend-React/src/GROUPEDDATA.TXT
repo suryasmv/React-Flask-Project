@@ -1,0 +1,93 @@
+Default :
+rsID
+Literature
+CHROM
+POS
+REF
+ALT
+Zygosity
+Consequence
+Consequence_score
+CLIN_SIG
+Condition
+
+Population Frequencies:
+
+AFR_AF
+AMR_AF
+EAS_AF
+EUR_AF
+SAS_AF
+gnomADe_AF
+gnomADg_AF
+MAX_AF
+MAX_AF_POPS
+
+Impact Information:
+
+IMPACT
+IMPACT_score
+
+ClinVar Information:
+
+ClinVar_CLNDN
+ClinVar_CLNREVSTAT
+ClinVar
+
+Protein Information:
+
+HGVSc
+HGVSc (Transcript)
+HGVSp
+HGVSp (Transcript)
+
+Genotype Information:
+
+GT
+GQ
+SDP
+DP
+RD
+AD
+FREQ
+PVAL
+RDF
+RDR
+ADF
+ADR
+
+Functional Prediction:
+
+SIFT
+PolyPhen
+
+Additional Information:
+
+BIOTYPE
+EXON
+INTRON
+Protein Position and Amino Acid
+Codons
+STRAND
+PUBMED
+
+gnomADe_AFR_AF
+gnomADe_AMR_AF
+gnomADe_ASJ_AF
+gnomADe_EAS_AF
+gnomADe_FIN_AF
+gnomADe_NFE_AF
+gnomADe_OTH_AF
+gnomADe_SAS_AF
+gnomADg_AFR_AF
+gnomADg_AMI_AF
+gnomADg_ASJ_AF
+gnomADg_EAS_AF
+gnomADg_FIN_AF
+gnomADg_MID_AF
+gnomADg_NFE_AF
+gnomADg_OTH_AF
+gnomADg_SAS_AF
+
+
+Additional columns: Remaining all columns

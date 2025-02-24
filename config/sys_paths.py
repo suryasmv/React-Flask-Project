@@ -1,0 +1,1 @@
+BASE_DIR = r"M:\Kavya Project\GenePowerx-v1\patient_files"  

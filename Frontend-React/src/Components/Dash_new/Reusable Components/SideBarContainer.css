@@ -1,0 +1,42 @@
+/* Sidebar button styles */
+.sidebar-button {
+  background-color: #063767; /* Darker background color for buttons */
+  color: white; /* Button text color */
+  padding: 12px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 9px;
+  text-align: left; /* Align text to the left */
+  transition: background-color 0.3s ease;
+  width: 48%; /* Make the button take full width of the sidebar */
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  justify-content: center;
+  align-items: center;
+  margin: 1px;
+  overflow-wrap: break-word;
+}
+
+/* Selected button styles */
+.sidebar-button.selected {
+  background-color: #1abc9c; /* Background color for selected button */
+}
+
+.sidebar-button.submitted {
+  background-color: #28a745; /* Green background for submitted conditions */
+}
+
+.sidebar-button:hover {
+  background-color: #1abc9c; /* Lighter hover color */
+}
+
+.condition-icons {
+  /* height: 50px; */
+}
+
+.condition-icons {
+  height: 30px;
+  filter: brightness(0) invert(1); /* Makes the image white */
+}

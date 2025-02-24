@@ -1,0 +1,80 @@
+.phenotype {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+.control-panel {
+  margin-bottom: 20px;
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.pdf-count-input {
+  width: 50px;
+  padding: 5px;
+}
+
+.pdf-selectors {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+  justify-content: space-between;
+}
+
+.pdf-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: calc(100% / 3 - 10px);
+}
+
+.select-button {
+  background-color: #007ad9;
+  color: #fff;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-bottom: 10px; /* Space between button and viewer */
+}
+
+.select-button:hover {
+  background-color: #005fb2;
+}
+
+.selected-file p {
+  margin-top: 5px;
+  font-size: 14px;
+  color: #333;
+  text-align: center;
+}
+
+.pdf-viewer-container {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.pdf-viewer {
+  width: 100%;
+  height: 800px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.pdf-placeholder {
+  width: 100%;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 2px dashed #ddd;
+  border-radius: 5px;
+}
+
+.pdf-placeholder p {
+  font-size: 14px;
+  color: #999;
+}
