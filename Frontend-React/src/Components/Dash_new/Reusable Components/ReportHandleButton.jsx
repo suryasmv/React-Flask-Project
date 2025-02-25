@@ -4,18 +4,14 @@ import { Dialog } from "primereact/dialog";
 
 const ReportHandleButton = ({
   submittedData,
-  setSubmittedData, // ✅ Add setSubmittedData to update state
+  setSubmittedData,
   handleRemove,
   handleDownload,
 }) => {
   const [visibleData, setVisibleData] = useState(false);
-  
 
-
-
-  // ✅ Function to remove all submitted data after download
   const handleRemoveAll = () => {
-    setSubmittedData([]); // Clears all submitted data
+    setSubmittedData([]);
   };
 
   return (
@@ -114,13 +110,13 @@ const ReportHandleButton = ({
           )}
         </div>
 
-        {/* ✅ Download Button - Clears Data After Download */}
+        {/* Download Button - Clears Data After Download */}
         <div className="download-section">
           <Button
             label="Download"
             onClick={() => {
               handleDownload();
-              handleRemoveAll(); // ✅ Clears all submitted data after download
+              handleRemoveAll();
             }}
           />
         </div>

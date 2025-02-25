@@ -78,6 +78,7 @@ const Dashboard = () => {
   const [removedCondition, setRemovedCondition] = useState(null);
   const [selectedBatch, setSelectedBatch] = useState("Batch1"); // Store selected batch
   const [submittedData, setSubmittedData] = useState([]);
+  const [concernChecked, setConcernChecked] = useState(false); // Add concernChecked state
 
   useEffect(() => {
     const storedColumns = localStorage.getItem("selectedColumns");
@@ -152,24 +153,23 @@ const Dashboard = () => {
     );
 
     if (existingIndex !== -1) {
-      // ✅ Always update AI Score
       const updatedData = [...submittedData];
       if (property === "severity") {
         updatedData[existingIndex].severity = level;
-        updatedData[existingIndex].aiScore = aiScore; // ✅ Ensure AI Score is updated
+        updatedData[existingIndex].aiScore = aiScore;
         updatedData[existingIndex].reason = "";
       } else {
         updatedData[existingIndex][property] =
           updatedData[existingIndex][property] === value ? "" : value;
       }
+      updatedData[existingIndex].Concern = concernChecked ? "Y" : ""; // Update concern based on checkbox state
       setSubmittedData(updatedData);
     } else {
-      // ✅ Ensure AI Score is included in the new entry
       const newEntry = {
         condition: selectedCondition,
         severity: property === "severity" ? level : null,
-        aiScore: aiScore, // ✅ Always include AI Score
-        Concern: property === "Concern" ? "Y" : "",
+        aiScore: aiScore,
+        Concern: concernChecked ? "Y" : "", // Set concern based on checkbox state
         NoMutation: property === "NoMutation" ? "Y" : "",
         Reason: property === "reason" ? value : "",
       };
@@ -180,9 +180,11 @@ const Dashboard = () => {
       setSubmittedConditions([...submittedConditions, selectedCondition]);
     }
 
-    `Updated ${property} for ${selectedCondition}: ${
-      level || value
-    }, AI Score: ${aiScore}`;
+    console.log(
+      `Updated ${property} for ${selectedCondition}: ${
+        level || value
+      }, AI Score: ${aiScore}`
+    );
   };
 
   const [severity, setSeverity] = useState(null); // Holds selected severity
@@ -659,6 +661,8 @@ const Dashboard = () => {
                   setAiScore={setAiScore}
                   setReason={setReason}
                   selectedBatch={selectedBatch}
+                  concernChecked={concernChecked} // Pass concernChecked state
+                  setConcernChecked={setConcernChecked} // Pass setConcernChecked function
                 />
               </div>
 

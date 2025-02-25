@@ -27,6 +27,8 @@ const MainContentData = ({
   setReason,
   setAiScore,
   selectedBatch,
+  concernChecked, // Receive concernChecked state
+  setConcernChecked, // Receive setConcernChecked function
 }) => {
   const [isFullScreen, setIsFullScreen] = useState(false);
   const [conditionValue, setConditionValue] = useState(null);
@@ -48,6 +50,7 @@ const MainContentData = ({
           console.log("Fetched patient condition data:", data); // Debugging
           console.log("Available keys:", Object.keys(data)); // Debugging keys
           setConditionValue(data[selectedCondition] || null);
+          setConcernChecked(data[selectedCondition] === "Yes");
         })
         .catch((error) =>
           console.error("Error fetching condition data:", error)
@@ -72,6 +75,10 @@ const MainContentData = ({
 
   const toggleFullScreen = () => {
     setIsFullScreen(!isFullScreen); // Toggle fullscreen state
+  };
+
+  const handleConcernChange = () => {
+    setConcernChecked(!concernChecked);
   };
 
   return (
@@ -110,7 +117,9 @@ const MainContentData = ({
               RenderTabViewContent={RenderTabViewContent}
               aiScore={aiScore}
               reason={reason}
-              getConcernButtonColor={getConcernButtonColor}
+              getConcernButtonColor={() =>
+                concernChecked ? "green" : "initial"
+              }
             />
           </div>
 
@@ -120,22 +129,22 @@ const MainContentData = ({
               style={{
                 fontSize: "0.8rem",
                 padding: "0.3rem 0.5rem",
-                color: "black",
-                backgroundColor: getConcernButtonColor(),
+                fontWeight: "extra-bold",
+                color: concernChecked ? "red" : "black",
               }}
-              onClick={() => handleSeverityClick(null, "Concern")}
-              onMouseEnter={(e) => {
-                const color = getConcernButtonColor();
-                e.currentTarget.querySelector("p").style.color = color;
-                e.currentTarget.querySelector("svg").style.color = color;
-              }}
-              onMouseLeave={(e) => {
-                e.currentTarget.querySelector("p").style.color = "initial";
-                e.currentTarget.querySelector("svg").style.color = "initial";
-              }}
+              onClick={handleConcernChange}
             >
-              <p style={{ margin: 0 }}>Concern</p>
-              <MdLocalHospital />
+              <label
+                style={{ display: "flex", alignItems: "center", margin: 0 }}
+              >
+                <input
+                  type="checkbox"
+                  checked={concernChecked}
+                  onChange={handleConcernChange}
+                  style={{ marginRight: "0.5rem" }}
+                />
+                Concern
+              </label>
             </Button>
             <Button
               style={{
@@ -284,7 +293,7 @@ const MainContentData = ({
         <div
           style={{ maxHeight: "400px", overflowY: "auto", fontSize: "0.9rem" }}
         >
-           <RenderTabViewContent
+          <RenderTabViewContent
             selectedCondition={selectedCondition}
             setSelectedCondition={setSelectedCondition}
           />
