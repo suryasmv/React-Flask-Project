@@ -127,10 +127,11 @@ const MainContentData = ({
           <div className="extra-buttons-style">
             <Button
               style={{
-                fontSize: "0.8rem",
+                fontSize: "1rem",
                 padding: "0.3rem 0.5rem",
                 fontWeight: "extra-bold",
                 color: concernChecked ? "red" : "black",
+                accentColor: concernChecked ? "red" : "",
               }}
               onClick={handleConcernChange}
             >
@@ -141,7 +142,11 @@ const MainContentData = ({
                   type="checkbox"
                   checked={concernChecked}
                   onChange={handleConcernChange}
-                  style={{ marginRight: "0.5rem" }}
+                  style={{
+                    marginRight: "0.5rem",
+                    width: "18px", // Adjust checkbox width
+                    height: "18px", // Adjust checkbox height
+                  }}
                 />
                 Concern
               </label>
