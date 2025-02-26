@@ -169,7 +169,7 @@ const Dashboard = () => {
         condition: selectedCondition,
         severity: property === "severity" ? level : null,
         aiScore: aiScore,
-        Concern: concernChecked,
+        Concern: concernChecked ? "y" : "", // Add concern to new entry
         NoMutation: property === "NoMutation" ? "y" : "",
         Reason: property === "reason" ? value : "",
       };
@@ -189,40 +189,6 @@ const Dashboard = () => {
 
   const [severity, setSeverity] = useState(null); // Holds selected severity
   // Tracks all submissions
-
-  const handleSeveritySubmit = () => {
-    if (!selectedCondition || !severity) {
-      alert("Both condition and severity must be selected!");
-      return;
-    }
-
-    const newEntry = {
-      condition: selectedCondition,
-      severity: severity,
-    };
-
-    // Check if the condition already exists in submittedData
-    const existingIndex = submittedData.findIndex(
-      (entry) => entry.condition === selectedCondition
-    );
-
-    if (existingIndex !== -1) {
-      // Replace the severity of the existing condition
-      const updatedData = [...submittedData];
-      updatedData[existingIndex].severity = severity;
-      setSubmittedData(updatedData);
-      alert(`
-        Updated condition: ${selectedCondition} with severity: ${severity}
-      `);
-    } else {
-      // Add a new entry if the condition doesn't exist
-      setSubmittedData([...submittedData, newEntry]);
-      alert(`Submitted condition: ${selectedCondition}, severity: ${severity}`);
-    }
-
-    setSelectedCondition(null); // Clear after submission
-    setSeverity(null); // Clear after submission
-  };
 
   // Function to remove a specific entry
   const handleRemove = (index) => {
