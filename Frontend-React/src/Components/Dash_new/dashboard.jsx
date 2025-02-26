@@ -142,7 +142,7 @@ const Dashboard = () => {
     { name: "Food Which other disease to consider", code: "FWC" },
   ];
 
-  const handleSeverityClick = (level, property, value = "Y") => {
+  const handleSeverityClick = (level, property, value = "y") => {
     if (!selectedCondition) {
       alert("Please select a condition first!");
       return;
@@ -162,15 +162,15 @@ const Dashboard = () => {
         updatedData[existingIndex][property] =
           updatedData[existingIndex][property] === value ? "" : value;
       }
-      updatedData[existingIndex].Concern = concernChecked ? "Y" : ""; // Update concern based on checkbox state
+      updatedData[existingIndex].Concern = concernChecked ? "y" : ""; // Update concern based on checkbox state
       setSubmittedData(updatedData);
     } else {
       const newEntry = {
         condition: selectedCondition,
         severity: property === "severity" ? level : null,
         aiScore: aiScore,
-        Concern: concernChecked ? "Y" : "", // Set concern based on checkbox state
-        NoMutation: property === "NoMutation" ? "Y" : "",
+        Concern: concernChecked,
+        NoMutation: property === "NoMutation" ? "y" : "",
         Reason: property === "reason" ? value : "",
       };
       setSubmittedData([...submittedData, newEntry]);
@@ -237,23 +237,29 @@ const Dashboard = () => {
 
   const handleDownload = async () => {
     const headers = [
-      "Condition",
+      "Medical Condition ",
       "Low",
+      "Low to Mild",
       "Mild",
+      "Mild to Moderate",
       "Moderate",
       "Moderate to High",
-      "Concern",
-      "No Mutation",
+      "High",
+      "concerns",
+      "No Mutations",
       "AI Score",
       "Reason",
     ];
 
     const data = submittedData.map((entry) => ({
       condition: entry.condition,
-      low: entry.severity === "Low" ? "Y" : "",
-      mild: entry.severity === "Mild" ? "Y" : "",
-      moderate: entry.severity === "Moderate" ? "Y" : "",
-      moderateToHigh: entry.severity === "Moderate to High" ? "Y" : "",
+      low: entry.severity === "Low" ? "y" : "",
+      lowToMild: entry.severity === "Low to Mild" ? "y" : "",
+      mild: entry.severity === "Mild" ? "y" : "",
+      mildToModerate: entry.severity === "Mild to Moderate" ? "y" : "",
+      moderate: entry.severity === "Moderate" ? "y" : "",
+      moderateToHigh: entry.severity === "Moderate to High" ? "y" : "",
+      high: entry.severity === "High" ? "y" : "",
       concern: entry.Concern || "",
       noMutation: entry.NoMutation || "",
       aiScore: entry.aiScore || "",

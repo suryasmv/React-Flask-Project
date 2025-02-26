@@ -159,7 +159,7 @@ const MainContentData = ({
                 backgroundColor: submittedData.find(
                   (entry) =>
                     entry.condition === selectedCondition &&
-                    entry.NoMutation === "Y"
+                    entry.NoMutation === "y"
                 )
                   ? "red"
                   : "initial",

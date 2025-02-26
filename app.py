@@ -37,7 +37,7 @@ def generate_excel():
 
         # Convert JSON data to a DataFrame
         df = pd.DataFrame(data, columns=[
-            "condition", "low", "mild", "moderate", "moderateToHigh",
+            "condition", "low", "lowToMild", "mild", "mildToModerate", "moderate", "moderateToHigh", "high",
             "concern", "noMutation", "aiScore", "reason"
         ])
 
